@@ -16,4 +16,6 @@ import dialogEl from 'dialog'
 ```
 ## 预览
 
-预览移至fly-ui项目，<a href="https://zhazhjie.github.io/fly-ui">戳这里</a>
+[DEMO](https://zhazhjie.github.io/vue-dialog/?id=dialog)
+
+组件移至fly-ui项目，<a href="https://zhazhjie.github.io/fly-ui">戳这里</a>
